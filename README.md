@@ -13,10 +13,10 @@ Welcome
 
 <details open><summary><code>Perintah Script?</code></summary>
 
-```js
+```css
 $ npm install
 
-# cara start script
+// cara start script
 $ npm start
 ```
 </details>
