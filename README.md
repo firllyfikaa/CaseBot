@@ -13,7 +13,10 @@ Welcome
 
 <details open><summary><code>Perintah Script?</code></summary>
 
-```php
-$ 
+```js
+$ npm install
+
+# cara start script
+$ npm start
 ```
 </details>
